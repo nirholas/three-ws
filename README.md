@@ -1,5 +1,10 @@
 # three-ws
 
+<!-- three.ws:badges -->
+[![GitHub stars](https://img.shields.io/github/stars/nirholas/three-ws?style=flat&logo=github)](https://github.com/nirholas/three-ws/stargazers) [![License](https://img.shields.io/github/license/nirholas/three-ws?style=flat)](https://github.com/nirholas/three-ws/blob/HEAD/LICENSE) [![Last commit](https://img.shields.io/github/last-commit/nirholas/three-ws?style=flat)](https://github.com/nirholas/three-ws/commits) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/nirholas/three-ws/pulls) [![AI agent friendly](https://img.shields.io/badge/AI%20agents-AGENTS.md%20%2B%20llms.txt-6d5dfc?style=flat)](https://github.com/nirholas/three-ws/blob/HEAD/AGENTS.md)
+<!-- /three.ws:badges -->
+
+
 Connect any MCP client to [three.ws](https://three.ws) in one command. `three-ws` signs you in, writes the hosted three.ws MCP servers into every client it finds (Claude Code, Claude Desktop, Cursor, Windsurf, VS Code, IBM Bob, Codex, Gemini CLI, Hermes), prints the connector fields for Grok Bot, and verifies each one with a live `tools/list`.
 
 ```bash
@@ -96,3 +101,30 @@ Full reference, client config paths and troubleshooting: [three.ws/docs/cli](htt
 ## License
 
 Apache-2.0
+
+<!-- three.ws:growth -->
+## Support the project
+
+If three-ws saves you time, **[star it on GitHub](https://github.com/nirholas/three-ws)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=three-ws%3A%20One%20command%20to%20connect%20any%20MCP%20client%20to%20three.ws%3A%20sign%20in%20with%20OAuth%20or%20an%20API%20key%2C%20write%20the&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fthree-ws) · [Share on Bluesky](https://bsky.app/intent/compose?text=three-ws%3A%20One%20command%20to%20connect%20any%20MCP%20client%20to%20three.ws%3A%20sign%20in%20with%20OAuth%20or%20an%20API%20key%2C%20write%20the%20https%3A%2F%2Fgithub.com%2Fnirholas%2Fthree-ws) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fthree-ws) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Fthree-ws&t=three-ws%3A%20One%20command%20to%20connect%20any%20MCP%20client%20to%20three.ws%3A%20sign%20in%20with%20OAuth%20or%20an%20API%20key%2C%20write%20the) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fthree-ws&title=three-ws%3A%20One%20command%20to%20connect%20any%20MCP%20client%20to%20three.ws%3A%20sign%20in%20with%20OAuth%20or%20an%20API%20key%2C%20write%20the)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/three-ws` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/three-ws/issues) or [start a discussion](https://github.com/nirholas/three-ws/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/three-ws)](https://github.com/nirholas/three-ws/graphs/contributors)
+
+## Star history
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/three-ws&type=Date)](https://www.star-history.com/#nirholas/three-ws&Date)
+
+<!-- /three.ws:growth -->
