@@ -1,0 +1,19 @@
+{
+  "name": "three-ws-connect",
+  "version": "0.1.1",
+  "description": "Connect Claude Code, Cursor, VS Code and other MCP clients to the hosted three.ws MCP servers with the three-ws CLI.",
+  "author": {
+    "name": "nirholas"
+  },
+  "repository": "https://github.com/nirholas/three-ws",
+  "license": "Apache-2.0",
+  "keywords": [
+    "mcp",
+    "three-ws",
+    "cli",
+    "oauth",
+    "claude-code",
+    "setup"
+  ],
+  "homepage": "https://nirholas.github.io/three-ws/"
+}
